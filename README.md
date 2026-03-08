@@ -11,6 +11,7 @@ Perfect for developers who want to bootstrap projects faster without repetitive 
 
   * Create a React app (JavaScript or TypeScript).
   * Optionally configure TailwindCSS out of the box.
+    
 
 * 🧩 **Frontend Libraries (pick what you need)**
 
@@ -153,6 +154,7 @@ const { projectName } = await inquirer.prompt([
 ---
 
 ## 🏆 Why This Project?
+
 
 * Saves developers hours of setup time.
 * Eliminates repetitive config (Tailwind, React Router, etc.).
