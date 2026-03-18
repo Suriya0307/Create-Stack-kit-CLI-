@@ -9,6 +9,9 @@ Perfect for developers who want to bootstrap projects faster without repetitive 
 
 * 📦 **Project Initialization**
 
+
+
+
   * Create a React app (JavaScript or TypeScript).
   * Optionally configure TailwindCSS out of the box.
     
